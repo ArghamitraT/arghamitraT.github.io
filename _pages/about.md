@@ -17,6 +17,7 @@ redirect_from:
 
 News
 ======
+**09/2025.** Attended MLCB 2025 at New York Genome Centre.  <br>
 **07/2025.** Attended the North American School of Information Theory (NASIT) 2025 in Minneapolis.  <br>
 **04/2025.** Joined RECOMB, 2025 in Seoul, South Korea. Presented my paper [JOLI](https://www.biorxiv.org/content/10.1101/2025.02.08.637184v2.abstract) at the RECOMB-Seq. <br>
 **02/2025.** Received a Master of Science (M.S.) in Computer Science 🎉🎉.
