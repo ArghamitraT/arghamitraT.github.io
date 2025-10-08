@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎒 I am a 2nd year PhD student and [NSF CSGrad4US fellow](https://cra.org/csgrad4us/#tab-id-3) in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
+🎒 I am a 3rd year PhD student and [NSF CSGrad4US fellow](https://cra.org/csgrad4us/#tab-id-3) in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
 
 👓 My research involves machine learning implementation in Computational Biology. My projects include computational quantification of cellular plasticity, isoform abundance. Previously I worked to detect inter protein contact using multi-modal data. 
 
@@ -17,6 +17,10 @@ redirect_from:
 
 News
 ======
+**07/2025.** Attended the North American School of Information Theory (NASIT) 2025 in Minneapolis.  <br>
+**04/2025.** Joined RECOMB, 2025 in Seoul, South Korea. Presented my paper [JOLI]([https://www.biorxiv.org/content/10.1101/2025.02.08.637184v2.abstract]) at the RECOMB-Seq.
+**02/2025.** Received a Master of Science (M.S.) in Computer Science 🎉🎉.
+
 **06/2024.** Joined Schrödinger's Catalyzing Gender Equity event, presented my work on isoform quantification. <br>
 **04/2024.** Joined CRA-WP Grad Cohort for IDEALS Workshop, presented my work on quantifying cellular plasticity.
 
