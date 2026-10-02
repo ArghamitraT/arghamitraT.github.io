@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-🎒 I am a 3rd year PhD student and [NSF CSGrad4US fellow](https://cra.org/csgrad4us/#tab-id-3) in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
+🎒 I am a 4th year PhD student and [NSF CSGrad4US fellow](https://cra.org/csgrad4us/#tab-id-3) in the Department of **Computer Science at Columbia University in New York**, advised by Prof. [Itsik Pe'er](https://www.engineering.columbia.edu/faculty/itsik-peer) and Prof. [David A. Knowles](https://www.engineering.columbia.edu/faculty/david-knowles). I received my Bachelor’s of Science in Electrical Engineering from Texas A&M University at College Station. During my undergraduate, I was advised by Prof. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html).
 
-👓 My research focuses on developing and applying novel machine learning and statistical models to address fundamental questions in computational biology. My work involves creating predictive models to understand genomic regulation and analyze transcriptomic data by integrating information from next-generation sequencing. I also develop statistical frameworks to model cellular dynamics by leveraging high-dimensional, single-cell datasets. My core expertise lies in building sophisticated computational tools to extract meaningful insights from complex and diverse biological data.
+👓 My research focuses on developing interpretable machine learning methods for computational biology, particularly using sparsity and privileged representations to uncover the features and mechanisms underlying complex model predictions. I develop and apply machine learning and statistical models to understand how genomic sequence gives rise to biological function, with a particular interest in sequence-to-function modeling. 
 
 💻 After my bachelor's, I worked at Texas Instruments, Dallas as Test/Product Engineer.
 
 
 News
 ======
-**09/2025.** Attended MLCB 2025 at New York Genome Centre.  <br>
+**09/2026.** Passed my PhD candidacy exam 🎉. <br>
+**07/2026.** [Privileged Basis MRL](https://arxiv.org/abs/2605.09160) was accepted as a spotlight at the Weight Space Symmetry Workshop at ICML 2026 in Seoul, South Korea. <br>
+**06/2026.** Started my research internship at Lawrence Livermore National Laboratory. <br>
+**05/2026.** [CLADES](https://www.biorxiv.org/content/10.64898/2026.02.20.707118v1.abstract) was accepted at RECOMB 2026 in Thessaloniki, Greece. <br>
+
+**09/2025.** Awarded the NIH T15 Training Grant, supporting two years of my PhD research (2025–2027). <br>
 **07/2025.** Attended the North American School of Information Theory (NASIT) 2025 in Minneapolis.  <br>
 **04/2025.** Joined RECOMB, 2025 in Seoul, South Korea. Presented my paper [JOLI](https://www.biorxiv.org/content/10.1101/2025.02.08.637184v2.abstract) at the RECOMB-Seq. <br>
 **02/2025.** Received a Master of Science (M.S.) in Computer Science 🎉🎉.
